@@ -1,0 +1,10 @@
+﻿  MAINPROJECT.cpp
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(9,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(9,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(299,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(359,32): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(762,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(822,32): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(924,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\20F-0210_20F-0390_DataStructure_FinalProject\MAINPROJECT.cpp(143): warning C4715: 'BST::Insert': not all control paths return a value
+  20F-0210_20F-0390_DataStructure_FinalProject.vcxproj -> C:\Users\sufih\source\repos\20F-0210_20F-0390_DataStructure_FinalProject\Debug\20F-0210_20F-0390_DataStructure_FinalProject.exe
